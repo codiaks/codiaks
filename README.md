@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning nextjs and tailwind css
 - 💞️ I’m looking to collaborate on projects with reactjs and javascript
 - 📫 How to reach me <> @akhil_surya_a on twitter, @codes.akhil on insta and Akhil Surya A on linkedin </>
+- 😊 Happy to help others
 
 <!---
 codiaks/codiaks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
